@@ -1,0 +1,15 @@
+#JIdea
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+.idea
+
+# SBT
+**/.bsp
+
+# Ignore Play! working directory #
+/project/project
+/project/target
+/target
+
+# Ignore react #
+**/ui/node_modules

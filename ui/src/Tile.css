@@ -1,0 +1,17 @@
+input {
+    width: 25px;
+    height: 25px;
+    border: 2px solid #fff;
+    background-color: #282c34;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+input.correct-location {
+    background-color: forestgreen;
+}
+
+input.correct-letter {
+    background-color: sandybrown;
+}
